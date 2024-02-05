@@ -87,7 +87,7 @@ Estudié un año la carrera de electrónica donde usamos lenguajes como C++ para
 <a href="https://calendly.com/jhonatan-rodriguez6523" target="_blank">
 <img src=https://img.shields.io/badge/calendly-%23000000.svg?&style=for-the-badge&logo=calendly&logoColor=white alt=Calendly style="margin-bottom: 5px;" />
 </a>  
- <a href="https://wa.me/593980690585?text=%F0%9F%91%8B+Hola%21+un+gusto+saludarte." target="_blank">
+ <a href="https://wa.me/593979308188?text=%F0%9F%91%8B+Hola%21+un+gusto+saludarte." target="_blank">
 <img src=https://img.shields.io/badge/whatsapp-%23000000.svg?&style=for-the-badge&logo=whatsapp&logoColor=green alt=WhatsApp style="margin-bottom: 5px;" />
 </a>  
  
