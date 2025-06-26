@@ -45,14 +45,7 @@
 Estoy disponible para **proyectos remotos o híbridos**. Si estás buscando a alguien que pueda construir productos sólidos y bien diseñados, ¡escríbeme!  
 📧 [jhonatan.rodriguez6523@gmail.com](mailto:jhonatan.rodriguez6523@gmail.com)
 
----
-
-## 🌍 Let's connect!
-
-[LinkedIn](https://linkedin.com/in/tu-enlace) | [GitHub](https://github.com/tuusuario) | [Portafolio Web](https://tusitio.dev)
-
-
-  
+--- 
 
 <br/>  
 
