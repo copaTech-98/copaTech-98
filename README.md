@@ -2,20 +2,56 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+# 👋 ¡Hola! Soy Jhonatan Iñiguez
 
-### <div align="center">💬 ¿Quién soy?
-Hola! 🙌 soy desarrollador web Fullstack, he liderado grupos de estudio desde muy joven , la programación me ha cautivado desde los 13 años, comencé con lenguajes como C++ y C#, tengo una gran capacidad para trabajar en equipo y poder concretar una aplicación web, híbrida o nativa.
+🎯 **Desarrollador Full Stack** con experiencia construyendo soluciones web y móviles escalables usando tecnologías modernas como **ReactJS**, **React Native**, **Node.js** y **PostgreSQL**.
 
-</div>  
-  
+🛠️ Me apasiona transformar ideas en productos funcionales, desde el diseño hasta la implementación, y he trabajado en proyectos de e-commerce, coworking, sistemas financieros y plataformas multitenant.
 
-### <div align="center">🍳 ¿Por qué yo?
-Siempre pensé que la mejor forma de aprender es enseñar, eso aumenta mis habilidades de liderazgo de forma que cada integrante de mi equipo logre avanzar, además de mis habilidades técnicas contarás con gran habilidad para resolver problemas y ganas de ayudar a los demás.
-  
-  
+---
 
-### <div align="center">📈Experiencia.
-Estudié un año la carrera de electrónica donde usamos lenguajes como C++ para programar Arduino , siempre me gusto mucho la programación pero, hace 2 años me involucre a fondo en este mundo, comenzando con lenguajes como PHP, JavaScript y SQL sin embargo mi experiencia más destacada fue como estudiante de desarrollo web Fullstack en Soy Henry, donde perfeccione mis habilidades tanto en Backend como en Frontend utilizando lenguajes como NodeJs, JavaScript, SQL y framework como ReactJs, he ampliado mis conocimientos desde que estudio en Henry, ahora manejo frameworks como Ionic y librerías como Capacitor y Material Ui.  
+## 🚀 Tech Stack
+
+**Frontend:** ReactJS, React Native, Vue.js, HTML, CSS, SASS, Bootstrap, Material UI  
+**Backend:** Node.js, Express, Laravel, PHP, .NET Framework, Firebase  
+**Bases de datos:** PostgreSQL, MySQL, Firebase  
+**Otros:** Socket.io, JWT, Azure DevOps, Firebase FCM, Git, UML  
+**Diseño y prototipado:** Figma  
+**Idiomas:** Español 🇪🇨 (nativo), Inglés 🇬🇧 (nivel B1)
+
+---
+
+## 💼 Experiencia Destacada
+
+🔹 **YourLaTeam (Canadá)** – Desarrollo remoto con WordPress, React, .NET y Azure.  
+🔹 **Ventario (Chile)** – App web para reciclaje con React y Firebase.  
+🔹 **EmpireGrow (Ecuador)** – Sitio de coworking + e-commerce.  
+🔹 **Pignoora** – App financiera en React Native (disponible en Play Store).
+
+🌐 Ver Ventario: [ventario.cl](https://ventario.cl/)
+
+---
+
+## 📚 Formación & Certificaciones
+
+🎓 Full Stack Web Developer – Henry Bootcamp  
+📜 Master en Frameworks JS – Udemy  
+💡 GitHub, C#, PHP – LinkedIn & SoloLearn  
+
+---
+
+## 🤝 ¿Trabajamos juntos?
+
+Estoy disponible para **proyectos remotos o híbridos**. Si estás buscando a alguien que pueda construir productos sólidos y bien diseñados, ¡escríbeme!  
+📧 [jhonatan.rodriguez6523@gmail.com](mailto:jhonatan.rodriguez6523@gmail.com)
+
+---
+
+## 🌍 Let's connect!
+
+[LinkedIn](https://linkedin.com/in/tu-enlace) | [GitHub](https://github.com/tuusuario) | [Portafolio Web](https://tusitio.dev)
+
+
   
 
 <br/>  
